@@ -1,7 +1,7 @@
 ---
 title: Xuanwei Zhang
-role: Professor of Artificial Intelligence
-avatar_filename: 5afff80b55796.jpeg
+role: Backend development
+avatar_filename: avatar.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
