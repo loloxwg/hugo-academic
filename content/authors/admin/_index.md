@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SenseTime
+    url: https://www.sensetime.com/en
 education:
   courses:
     - course: PhD in Artificial Intelligence
