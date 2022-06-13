@@ -1,6 +1,7 @@
 ---
 title: Xuanwei Zhang
 role: Professor of Artificial Intelligence
+avatar_filename: 5afff80b55796.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -19,7 +20,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/loloxwg
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
