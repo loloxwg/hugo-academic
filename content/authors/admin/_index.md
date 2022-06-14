@@ -1,7 +1,7 @@
 ---
 title: Xuanwei Zhang
 role: Backend development
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
