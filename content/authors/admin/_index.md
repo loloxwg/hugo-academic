@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/loloxwg
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: http://english.cqupt.edu.cn/
   - icon: github
     icon_pack: fab
     link: https://github.com/loloxwg
