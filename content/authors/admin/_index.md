@@ -26,15 +26,12 @@ organizations:
     url: https://www.sensetime.com/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: "Bachelor in Internet of Things Engineering(IoT), School of Automation "
+      institution: Chongqing University of Posts and Telecommunications
+      year: 2020
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 highlight_name: true
