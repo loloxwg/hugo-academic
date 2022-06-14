@@ -21,9 +21,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/loloxwg
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: SenseTime
     url: https://www.sensetime.com/en
