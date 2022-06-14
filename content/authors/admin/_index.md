@@ -29,6 +29,8 @@ education:
     - course: Bachelor in Internet of Things Engineering
       institution: Chongqing University of Posts and Telecommunications
       year: ""
+    - course: Bachelor in Flight Vehicle Propulsion Engineering
+      institution: Nanchang Hangkong University
 email: ""
 superuser: true
 highlight_name: true
