@@ -26,7 +26,7 @@ organizations:
     url: https://www.sensetime.com/en
 education:
   courses:
-    - course: "Bachelor in Internet of Things Engineering(IoT), School of Automation "
+    - course: Bachelor in Internet of Things Engineering(IoT)
       institution: Chongqing University of Posts and Telecommunications
       year: 2020
     - course: MEng in Artificial Intelligence
