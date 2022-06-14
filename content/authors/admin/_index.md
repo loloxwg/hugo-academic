@@ -2,8 +2,8 @@
 title: Xuanwei Zhang
 role: Backend development
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include distributed database, distributed storage
+  system and internet of things
 interests:
   - Distributed Database
   - Distributed Storage System
