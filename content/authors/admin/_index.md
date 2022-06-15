@@ -1,6 +1,6 @@
 ---
 title: Xuanwei Zhang
-role: Software Development
+role: Software Engineer
 avatar_filename: avatar.jpg
 bio: My research interests include distributed database, distributed storage
   system and internet of things
