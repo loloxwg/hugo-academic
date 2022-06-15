@@ -37,6 +37,10 @@ highlight_name: true
 ---
 Hello, there! I am Xuanwei Zhang, a 'Goper' that believes open source, open web and open community would make the world a better place.
 
+* Specialized in Go and Kubernetes solutions.
+* Currently focus on infrastructure development.
+*  Interesting in distributed system
+
 
 
 
