@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 100%
     icon: golang
     icon_pack: fab
     name: Golang
@@ -24,16 +24,16 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 10%
+  - description: 20%
     icon: rust
     icon_pack: fab
     name: Rust
-  - description: 100%
-    icon: cat-space
-    icon_pack: fab
-    name: Keep a cat
+#  - description: 100%
+#   icon: cat
+#    icon_pack: fab
+#    name: Keep a cat
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
+# - icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
 #  description: "100%"
