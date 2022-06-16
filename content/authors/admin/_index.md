@@ -37,7 +37,7 @@ social:
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: SenseTime
-  - url: https://www.sensetime.com/en
+    url: https://www.sensetime.com/en
 # Education to show in About widget
 education:
   courses:
