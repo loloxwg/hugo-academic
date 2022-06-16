@@ -34,12 +34,13 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/loloxwg'
-#    - icon: video
-#      icon_pack: fas
-#      name: Zoom Me
-#      link: 'https://zoom.com'
+      link: https://twitter.com/loloxwg
+    - icon: graduation-cap
+      icon_pack: fas
+      link: http://english.cqupt.edu.cn/
+    - icon: github
+      icon_pack: fab
+      link: https://github.com/loloxwg
 
 design:
   columns: '2'
