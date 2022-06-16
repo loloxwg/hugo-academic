@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 90%
     icon: fa-golang
-    icon_pack: fab
+    icon_pack: fas
     name: Golang
   - description: 100%
     icon: chart-line
