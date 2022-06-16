@@ -39,7 +39,7 @@ experience:
   - title: Software Engineer Intern
     company: SenseTime
     company_url: 'https://www.sensetime.com/en'
-    company_logo: st
+    company_logo: st1
     location: Shanghai
     date_start: '2021-08-19'
     date_end: '2022-06-15'
