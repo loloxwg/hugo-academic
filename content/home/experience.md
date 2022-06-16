@@ -44,13 +44,13 @@ experience:
     date_start: '2021-08-19'
     date_end: '2022-06-15'
     description:  Design and develop backend services of the storage management system for the internal datasets using Golan
-  - title: Professor of Semiconductor Physics
-    company: SenseTime
+  - title: Research Assistant
+    company:  School of Automation
     company_url: ''
-    company_logo: org-x
+    company_logo: cqupt
     location: Shanghai
-    date_start: '2021-08-19'
-    date_end: '2022-06-15'
+    date_start: '2020-10-19'
+    date_end: '2022-06-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 
