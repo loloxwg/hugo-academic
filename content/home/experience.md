@@ -42,7 +42,7 @@ experience:
     company_logo: st
     location: Shanghai
     date_start: '2021-08-19'
-    date_end: '2022-6-15'
+    date_end: '2022-06-15'
     description:  Design and develop backend services of the storage management system for the internal datasets using Golan
   - title: Professor of Semiconductor Physics
     company: SenseTime
@@ -50,7 +50,7 @@ experience:
     company_logo: org-x
     location: Shanghai
     date_start: '2021-08-19'
-    date_end: '2022-6-15'
+    date_end: '2022-06-15'
     description: Taught electronic engineering and researched semiconductor physics.
 
 
