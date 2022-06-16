@@ -36,14 +36,24 @@ experience:
 #        * Modelling
 #        * Deploying
 #
+  - title: Software Engineer Intern
+    company: SenseTime
+    company_url: 'https://www.sensetime.com/en'
+    company_logo: st
+    location: Shanghai
+    date_start: '2021-08-19'
+    date_end: '2022-6-16'
+    description:  Design and develop backend services of the storage management system for the internal datasets using Golan
   - title: Professor of Semiconductor Physics
-    company: University X
+    company: SenseTime
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Shanghai
+    date_start: '2021-08-19'
+    date_end: '2022-6-16'
     description: Taught electronic engineering and researched semiconductor physics.
+
+
 
 design:
   columns: '2'
