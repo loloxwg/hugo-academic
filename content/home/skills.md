@@ -22,15 +22,15 @@ feature:
     name: Golang
   - description: 90%
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Python
   - description: 10%
     icon: rust
-    icon_pack: fas
+    icon_pack: fab
     name: Rust
   - description: 100%
     icon: cat-space
-    icon_pack: fas
+    icon_pack: fab
     name: Keep a cat
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
