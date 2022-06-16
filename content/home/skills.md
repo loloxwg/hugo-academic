@@ -20,14 +20,18 @@ feature:
     icon: golang
     icon_pack: fab
     name: Golang
-  - description: 100%
-    icon: chart-line
+  - description: 90%
+    icon: python
     icon_pack: fas
-    name: Statistics
+    name: Python
   - description: 10%
-    icon: camera-retro
+    icon: rust
     icon_pack: fas
-    name: Photography
+    name: Rust
+  - description: 100%
+    icon: cat-space
+    icon_pack: fas
+    name: Keep a cat
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
