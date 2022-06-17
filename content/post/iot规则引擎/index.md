@@ -7,7 +7,7 @@ featured: true
 tags:
 - iot
   image:
-  filename: featured.png
+  filename: ""
   focal_point: Smart
   preview_only: true
   caption: ""
