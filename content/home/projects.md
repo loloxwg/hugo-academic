@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: storage
+      tag: storage
+    - name: database
+      tag: database
     - name: Other
       tag: Demo
 
