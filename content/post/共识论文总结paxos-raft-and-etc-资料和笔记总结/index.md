@@ -10,6 +10,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
 ---
 ## 一、共识
 
