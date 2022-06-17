@@ -26,11 +26,11 @@ content:
 
   # Contact details (edit or remove options as required)
   email: loloxwg@gmail.com
-  phone: +86 159 xxxx xxxx
-  address:
-    city: Shanghai
-    country: China
-    country_code: CN
+#  phone: +86 159 xxxx xxxx
+#  address:
+#    city: Shanghai
+#    country: China
+#    country_code: CN
   contact_links:
     - icon: twitter
       icon_pack: fab
