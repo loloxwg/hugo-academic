@@ -7,14 +7,14 @@ featured: true
 tags:
   - 共识
 image:
-  filename: paxos.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: ""
 ---
 ## 一、共识
 
-![](paxos.png)
+![](featured.png)
 
 分布式系统中的一致性实在是太杂糅了，有共识、隔离级别等等，这里只关注共识，尤其是raft、paxos等各种算法。
 
