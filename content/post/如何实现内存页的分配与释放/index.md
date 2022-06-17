@@ -4,7 +4,7 @@ subtitle: 内存革命
 date: 2021-06-02T12:12:28.298Z
 summary: 内存结构申请释放
 draft: false
-featured: false
+featured: true
 authors:
   - xwg
 tags:
