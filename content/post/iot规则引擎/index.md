@@ -5,12 +5,11 @@ summary: 规则引擎
 draft: false
 featured: true
 tags:
-- iot
-  image:
-  filename: ""
+  - iot 
+image:
+  filename: featured
   focal_point: Smart
-  preview_only: true
-  caption: ""
+  preview_only: false
 ---
 
 
