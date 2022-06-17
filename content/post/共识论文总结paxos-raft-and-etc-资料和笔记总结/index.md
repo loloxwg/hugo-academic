@@ -7,7 +7,7 @@ featured: true
 tags:
   - 共识
 image:
-  filename: featured
+  filename: paxos.png
   focal_point: Smart
   preview_only: false
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
