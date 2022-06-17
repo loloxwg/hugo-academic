@@ -34,12 +34,15 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
+      name: Twitter
       link: https://twitter.com/loloxwg
     - icon: graduation-cap
       icon_pack: fas
+      name: University
       link: http://english.cqupt.edu.cn/
     - icon: github
       icon_pack: fab
+      name: Github
       link: https://github.com/loloxwg
 
 design:
