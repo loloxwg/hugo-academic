@@ -48,7 +48,7 @@ experience:
     company:  School of Automation
     company_url: ''
     company_logo: cqupt
-    location: Shanghai
+    location: Chongqing
     date_start: '2020-10-19'
     date_end: '2022-06-01'
     description: Design an IoT MQTT message distribution and storage system based on micro-services for school research project.
