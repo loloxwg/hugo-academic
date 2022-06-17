@@ -10,7 +10,7 @@ image:
   filename: paxos.png
   focal_point: Smart
   preview_only: false
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: ""
 ---
 ## 一、共识
 
