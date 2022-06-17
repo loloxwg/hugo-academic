@@ -1,8 +1,10 @@
 ---
 title: 共识论文总结Paxos Raft and etc 资料和笔记总结
-date: 2022-06-17T12:34:40.476Z
+date: 2022-02-02T12:34:40.476Z
 draft: false
-featured: false
+featured: true
+tags:
+  - 共识
 image:
   filename: featured
   focal_point: Smart
