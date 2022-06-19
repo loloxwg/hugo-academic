@@ -7,7 +7,7 @@ featured: true
 tags:
   - 分布式事务
 image:
-  filename: 1.png
+  filename: featured.png
   focal_point: Smart
   preview_only: true
   caption: ""
