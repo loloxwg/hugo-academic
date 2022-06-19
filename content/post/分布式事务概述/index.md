@@ -1,5 +1,5 @@
 ---
-title: Pingcap TalentPlan 分布式事务概述和对应代码框架介绍
+title: Pingcap TalentPlan 分布式事务概述
 date: 2022-04-28T12:14:40.476Z
 summary: 关分布式事务和 Distributed-Txn 代码框架的介绍
 draft: false
