@@ -5,8 +5,8 @@ summary: 关分布式事务和 Distributed-Txn 代码框架的介绍
 draft: false
 featured: true
 tags:
-- 分布式事务
-  image:
+  - 分布式事务
+image:
   filename: 1.png
   focal_point: Smart
   preview_only: true
