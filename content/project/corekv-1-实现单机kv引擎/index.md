@@ -9,7 +9,7 @@ tags:
   - storage
   - lsmtree
 image:
-  filename: featured
+  filename: ishot2022-06-18-06.37.55.png
   focal_point: Smart
   preview_only: false
 ---
