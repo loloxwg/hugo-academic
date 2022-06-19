@@ -9,10 +9,10 @@ tags:
   - storage
   - lsmtree
 image:
-  filename: ishot2022-06-18-06.37.55.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
 corekv 是一个用来高效率的验证kv引擎feature的项目。
 
-![](ishot2022-06-18-06.37.55.png)
+![](featured.png)
