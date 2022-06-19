@@ -12,8 +12,7 @@ tags:
   preview_only: true
   caption: ""
 ---
-Pingcap TalentPlan 分布式事务概述和对应代码框架介绍
-================
+
 
 分享一下前两天在 [Talent Plan Community](https://tidb.net/talent-plan) 谭新宇做的有关分布式事务和 Distributed-Txn 代码框架的介绍。
 
