@@ -58,7 +58,8 @@ experience:
     date_end: '2022-06-01'
     description: |2-
       Responsibilities include:
-      * Design an IoT MQTT message distribution and storage system based on micro-services for school research project. Used emqx rules engine for processing data into the Kafka message queue through kong gateway reverse proxy.
+      * Design an IoT MQTT message distribution and storage system based on micro-services for school research project. 
+      * Used emqx rules engine for processing data into the Kafka message queue through kong gateway reverse proxy.
       * Implement micro-services to expose external APIs interface for different storage engines. 
       * Use RPC for internal communication and ensure structured data and unstructured data persistence.
       * Use Grafana for data visualization and monitoring.
