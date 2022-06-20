@@ -1,6 +1,6 @@
 ---
 title: Raft 论文阅读
-date: 2021-02-1T01:34:40.476Z
+date: 2021-02-10T01:34:40.476Z
 summary: 6.824 (2)
 draft: false
 featured: true
