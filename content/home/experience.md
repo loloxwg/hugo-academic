@@ -48,7 +48,9 @@ experience:
       * Design and develop backend services of the storage management system for the internal datasets using Golang, Gin, and Gorm. 
       * Responsible for packaging FSclient, writing tool modules, and processing data gateways.Configure Ceph OSS lifecycle permissions. 
       * Create various file management modules for the FS data gateway to ensure the stability and reliability of file operations. 
-      * Package Docker images and deploy on servers. Use Kubectl to manage containers. Write unit test and regression tests. Design microservices that are scalable and secure.
+      * Package Docker images and deploy on servers. Use Kubectl to manage containers.
+      * Write unit test and regression tests. 
+      * Design microservices that are scalable and secure.
   - title: Research Assistant
     company:  School of Automation
     company_url: ''
