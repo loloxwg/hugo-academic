@@ -69,4 +69,4 @@ Hello, there! I am Xuanwei Zhang, a 'Goper' that believes open source, open web 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Xuanwei_Zhang.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/zhang_xuanwei_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
