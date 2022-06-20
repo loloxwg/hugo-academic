@@ -48,7 +48,7 @@ for (const auto &haystack: haystacks)
 实际上有几十种子串查找算法可以使用 [https://www-igm.univ-mlv.fr/~lecroq/string](https://www-igm.univ-mlv.fr/~lecroq/string)
 但是ClickHouse一个都没用，而是根据needle是否为constant采用了下面几种算法
 算法的具体介绍在这里 [https://habr.com/en/company/yandex/blog/466183/](https://habr.com/en/company/yandex/blog/466183/)
-![image-20220621013728023](ClickHouse.assets/image-20220621013728023-5746658-5746660-5746661.png)
+![image-20220621013728023](image-20220621013728023-5746658-5746660-5746661.png)
 
 ### Sort排序
 排序需要考虑的因素有
@@ -74,7 +74,7 @@ ClickHouse的实现方法是
 积极采用业界最先进的算法
 如果有性能提升就采用
 否则drop it
-![image-20220621013827247](ClickHouse.assets/image-20220621013827247.png)
+![image-20220621013827247](image-20220621013827247.png)
 
 ## Specialization For the Task 具体的问题具体处理
 ### LIKE查询
@@ -91,7 +91,7 @@ WHERE str LIKE 'hello%'
 则会执行prefix search
 ### GROUP By
 ClickHouse的GroupBy针对不同的数据类型，有40余种不同的HashTable实现
-![image-20220621013952264](ClickHouse.assets/image-20220621013952264.png)
+![image-20220621013952264](image-20220621013952264.png)
 
 ### QuantileTiming 求中位数
 对于小于64个数字的数组，在arena申请内存
@@ -118,7 +118,7 @@ ClickHouse的GroupBy针对不同的数据类型，有40余种不同的HashTable�
 一个超硬核的例子。
 理论上可以快12倍。
 其实通过这个例子也可以看出，真实的数据应该是1/2/3位最多，在12位数以下，9位和10位最多
-![image-20220621014118592](ClickHouse.assets/image-20220621014118592.png)
+![image-20220621014118592](image-20220621014118592.png)
 
 ## Multi-Armed Bandit
 Multi-Armed Bandit的来源是这样的：
