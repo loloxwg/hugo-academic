@@ -1,6 +1,6 @@
 ---
 title: 操作系统中的锁
-date: 2022-06-17T12:20:37.645Z
+date: 2020-06-17T12:20:37.645Z
 summary: 原子操作 中断
 draft: false
 featured: true
