@@ -39,7 +39,7 @@ content:
     - icon: reddit
       icon_pack: fab
       name: Reddit
-      link: https://www.reddit.com/
+      link: https://www.reddit.com/user/loloxwg
     - icon: github
       icon_pack: fab
       name: Github
