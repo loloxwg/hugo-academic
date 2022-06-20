@@ -37,7 +37,7 @@ content:
       name: Twitter
       link: https://twitter.com/loloxwg
     - icon: reddit
-      icon_pack: fas
+      icon_pack: fab
       name: Reddit
       link: https://www.reddit.com/
     - icon: github
