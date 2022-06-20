@@ -61,9 +61,19 @@ experience:
       * Design an IoT MQTT message distribution and storage system based on micro-services for school research project. Used emqx rules engine for processing data into the Kafka message queue through kong gateway reverse proxy.
       * Implement micro-services to expose external APIs interface for different storage engines. 
       * Use RPC for internal communication and ensure structured data and unstructured data persistence.
-      * Use Grafana for data visualization and monitoring.
-
-
+      * Use Grafana for data visualization and monitoring.\
+  - title: Member of Organization
+    company: Red Rock Programming Organization
+    company_url: 'https://redrock.team/'
+    company_logo: redrock
+    location: Chongqing
+    date_start: '2020-10-15'
+    date_end: '2021-03-20'
+    description: |2-
+      Responsibilities include:
+      * Participated in the testing and maintenance of the school website with a DAU of 5000+ users.
+      * Develop back-end code according to the requirements of the product manager
+    
 
 design:
   columns: '2'
