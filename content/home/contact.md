@@ -36,10 +36,10 @@ content:
       icon_pack: fab
       name: Twitter
       link: https://twitter.com/loloxwg
-    - icon: graduation-cap
+    - icon: reddit
       icon_pack: fas
-      name: University
-      link: http://english.cqupt.edu.cn/
+      name: Reddit
+      link: https://www.reddit.com/
     - icon: github
       icon_pack: fab
       name: Github
