@@ -10,7 +10,7 @@ tags:
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 分享一下前两天在 [Talent Plan Community](https://asktug.com/t/topic/665859) 华东师范大学孙佳丽做的有关 TinyKV 的介绍 
 
